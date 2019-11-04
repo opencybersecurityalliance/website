@@ -24,7 +24,7 @@ enableRobotsTXT = true
   youtube = ""
   github = "https://github.com/opencybersecurityalliance"
   gitlab = ""
-  linkedin = "https://www.linkedin.com/company/open-cybersecurity-alliance/ "
+  linkedin = "https://www.linkedin.com/company/open-cybersecurity-alliance/"
   mastodon = ""
   logo = "/images/oca-logo-modified.png"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"

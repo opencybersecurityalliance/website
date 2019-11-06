@@ -6,7 +6,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 20 # number of sponsors that will show on sponsor page at a time
+Paginate = 30 # number of sponsors that will show on sponsor page at a time
 googleAnalytics = ""
 enableRobotsTXT = true
 

@@ -32,7 +32,9 @@ Current PGB members:
 * JP Bourget, Founder and Chief Security Officer, Syncurity
 * Yariv Lenchner, Director of Product Management, Indegy
 * Duncan Sparrell, Principal, sFractal Consulting
-
+* Marko Dragolievic, VP of Technology, EclecticIQ
+* Hugh Pyle, Director of Solutions Architecture, ReversingLabs
+* Nidhi Sharma, Product Manager, Threat Quotient
 
 ### Technical Steering Committee (TSC)
 

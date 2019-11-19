@@ -1,18 +1,16 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e7bc3ca8-6e6c-4de7-8e58-886e9e68eacb/deploy-status)](https://app.netlify.com/sites/pedantic-sinoussi-974ee3/deploys)
 
-# OASIS Open Projects Static Site Template
+# Open Cybersecurity Alliance Website Repository
 
-This repository is an example template static site for open projects websites. It makes use of Hugo, a customizeable Hugo theme, github-driven deployment, and hosting with Netlify. For more information about these tools, see:
+This repository houses the content for [our website](https://opencybersecurityalliance.org/). It is forked from the OASIS static site template for open projects. It makes use of Hugo, a customizable Hugo theme, github-driven deployment, and hosting with Netlify. For more information about these tools, see:
 
 * https://gohugo.io/about/
 * https://themes.gohugo.io/gohugo-theme-ananke/
 * https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
-You can see a live demo at https://pedantic-sinoussi-974ee3.netlify.com/
+## Updating and Maintaining the Website
 
-## Using this Template for an Open Project Website
-
-This template assumes you are comfortable with git-based development workflows and have experience downloading & installing new software packages for your operating system. A basic understanding of HTML is helpful, as is basic understanding of Markdown. 
+This template assumes you are comfortable with git-based development workflows and have experience downloading & installing new software packages for your operating system. An understanding of HTML is helpful, as is basic understanding of Markdown. 
 
 ### Quick Start
 

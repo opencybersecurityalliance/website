@@ -35,6 +35,7 @@ Current PGB members:
 * Marko Dragolievic, VP of Technology, EclecticIQ
 * Hugh Pyle, Director of Solutions Architecture, ReversingLabs
 * Nidhi Sharma, Product Manager, Threat Quotient
+* Adam Montville, Chief Product Architect, Center for Internet Security, Inc.
 
 ### Technical Steering Committee (TSC)
 

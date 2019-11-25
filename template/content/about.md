@@ -36,6 +36,7 @@ Current PGB members:
 * Hugh Pyle, Director of Solutions Architecture, ReversingLabs
 * Nidhi Sharma, Product Manager, Threat Quotient
 * Adam Montville, Chief Product Architect, Center for Internet Security, Inc.
+* CJ Brunet, President & COO, Advanced Cyber Security Corp
 
 ### Technical Steering Committee (TSC)
 

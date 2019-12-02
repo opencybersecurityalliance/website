@@ -41,6 +41,7 @@ Current PGB members:
 * Darren Thomas, Senior Product Manager, Open Data Exchange Layer, McAfee
 * Ben Waters, Co-Founder & COO, Cydarm
 * David Whelbourn, Director of Innovation and Infrastructure, CyberNB
+* Stephen Wood, Strategic Product Manager, Tripwire
 
 ### Technical Steering Committee (TSC)
 

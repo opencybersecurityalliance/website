@@ -23,20 +23,24 @@ Sponsor organizations.
 
 Current PGB members:
 
-* Jason Keirstead, Chief Architect, IBM Security Threat Management
-* Darren Thomas, Senior Product Manager, Open Data Exchange Layer, McAfee
-* Carolyn Raab, Chief Product Officer, Corsa Security
-* John Moran, Senior Project Manager, DFLabs
-* Patrick Duggan, Chief of Staff, New Context
+* Yotam Ben Ezra, VP of Products, SafeBreach
 * Adam Bosnian, Executive VP, Global Business Development, CyberArk
 * JP Bourget, Founder and Chief Security Officer, Syncurity
-* Yariv Lenchner, Director of Product Management, Indegy
-* Duncan Sparrell, Principal, sFractal Consulting
-* Marko Dragolievic, VP of Technology, EclecticIQ
-* Hugh Pyle, Director of Solutions Architecture, ReversingLabs
-* Nidhi Sharma, Product Manager, Threat Quotient
-* Adam Montville, Chief Product Architect, Center for Internet Security, Inc.
 * CJ Brunet, President & COO, Advanced Cyber Security Corp
+* Sam Curry, Chief Security Officer, Cybereason
+* Marko Dragolievic, VP of Technology, EclecticIQ
+* Patrick Duggan, Chief of Staff, New Context
+* Jason Keirstead, Chief Architect, IBM Security Threat Management
+* Yariv Lenchner, Director of Product Management, Indegy
+* Adam Montville, Chief Product Architect, Center for Internet Security, Inc.
+* John Moran, Senior Project Manager, DFLabs
+* Hugh Pyle, Director of Solutions Architecture, ReversingLabs
+* Carolyn Raab, Chief Product Officer, Corsa Security
+* Nidhi Sharma, Product Manager, Threat Quotient
+* Duncan Sparrell, Principal, sFractal Consulting
+* Darren Thomas, Senior Product Manager, Open Data Exchange Layer, McAfee
+* Ben Waters, Co-Founder & COO, Cydarm
+* David Whelbourn, Director of Innovation and Infrastructure, CyberNB
 
 ### Technical Steering Committee (TSC)
 

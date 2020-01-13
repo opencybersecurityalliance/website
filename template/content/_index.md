@@ -4,6 +4,8 @@ featured_image: '/images/cyber_background.jpg'
 description: "Integrate once, reuse everywhere."
 ---
 
+{{< youtube qZgeJ01cqeQ >}}
+
 ## A Global Alliance for Sharing Cybersecurity Data
 The OCA brings together vendors and end users in an open cybersecurity
 ecosystem where products can freely exchange information, insights,

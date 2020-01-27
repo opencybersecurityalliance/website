@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 30 # number of sponsors that will show on sponsor page at a time
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [sitemap]
   changefreq = "monthly"

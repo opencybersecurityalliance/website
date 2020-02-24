@@ -19,7 +19,7 @@ consumers are all valued.
 
 The Project Governing Board provides top-level guidance and strategic direction for the OCA. The Board includes those representatives from OCA Sponsors that have committed to the [Entity Contributor Licensing Agreement](https://www.oasis-open.org/resources/projects/cla/projects-entity-cla). [Learn how](mailto:communications@oasis-open.org) to join the OCA Project Governing Board.  
 
-Current PGB members:
+**Current PGB members:**
 
 * Yotam Ben Ezra, VP of Products, SafeBreach
 * Adam Bosnian, Executive VP, Global Business Development, CyberArk
@@ -47,6 +47,10 @@ The TSC directs the day-to-day technical activities of the OCA. TSC
 members include representatives from the developer community who are
 actively contributing to the project.
 
-Current TSC members:
+**Current TSC members:**
 
-* coming soon
+* Christopher Smith, Software Architect, McAfee
+* Michael Stair, Lead Member of Technical Staff, AT&T Chief Security Office
+* Thierry Supplisson, Senior Member of Technical Staff, IBM Security
+* Mitch Thomas, Software Architect, Tripwire
+* Bill Woodcock, Executive Director, Packet Clearing House

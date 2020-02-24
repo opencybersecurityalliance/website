@@ -14,13 +14,13 @@ The newly formed Open Cybersecurity Alliance was [launched](https://opencybersec
 
 In addition to the availability of OpenDXL Ontology, the OCA is also announcing the formation of its [Technical Steering Committee](https://opencybersecurityalliance.org/about/), including leaders from AT&T, IBM Security, McAfee, Packet Clearinghouse, and Tripwire, who will drive the technical direction and development of the organization. 
 
-“With the adoption of public cloud and explosion of connected devices, the ability for enterprises to quickly respond to threats across ever-changing technologies, and even beyond perimeters, is critical, "says Brian Rexroad, Vice President of Security Platforms at AT&T. “OCA is driving an industrial shift in interoperability with the OpenDXL Ontology to support security at scale.”
+“With the adoption of public cloud and explosion of connected devices, the ability for enterprises to quickly respond to threats across ever-changing technologies, and even beyond perimeters, is critical," says Brian Rexroad, Vice President of Security Platforms at AT&T. “OCA is driving an industrial shift in interoperability with the OpenDXL Ontology to support security at scale.”
 
 **Open Source Language Schema to Connect Security Tools**
 
 The Open Data Exchange Layer (OpenDXL) is an open messaging framework that over 4,100 vendors and enterprises already utilize to develop and share integrations with other tools. The release of the OpenDXL Ontology now offers a single, common language for these notifications, information and actions across security products that any vendor can adopt in order to communicate in a standard way with all other tools under this umbrella. This provides companies with a set of tooling that can be applied once and automatically reused everywhere across all product categories, while also eliminating the need to update integrations as product versions and functionalities change.  
 
-For example, if a certain tool detects a compromised device, it could automatically notify all other tools and even quarantine that device using a standard message format readable by all. While previously this was only possible with custom integrations between individual products, it will now be automatically enabled between all tools that adopt OpenDXL Ontology. Through continued development by the community, this common language will facilitate a wide variety of interoperability uses case, from sharing threat intelligence to triggering remediation between tools, such as isolating a device or updating a policy.  
+For example, if a certain tool detects a compromised device, it could automatically notify all other tools and even quarantine that device using a standard message format readable by all. While previously this was only possible with custom integrations between individual products, it will now be automatically enabled between all tools that adopt OpenDXL Ontology. Through continued development by the community, this common language will facilitate a wide variety of interoperability use cases, from sharing threat intelligence to triggering remediation between tools, such as isolating a device or updating a policy.  
 
 The adoption of OpenDXL Ontology will help create a stronger, united front to defend and protect across all types of security tools, while reducing the burden of point integrations between individual products.
 
@@ -30,7 +30,7 @@ Since launching five months ago, the OCA has expanded to include more than 25 pa
 
 The OCA community is currently collaborating on GitHub and Slack to further new open-source code and use-cases for cybersecurity industry interoperability. In addition to the development of OpenDXL Ontology for a common, open-source language between tools, the OCA is also continuing to build out capabilities for [STIX-Shifter](https://github.com/opencybersecurityalliance/stix-shifter), a universal, out-of-the box search capability for security products of all types. Since bringing STIX Shifter to the open-source community, hundreds of visitors have accessed this technology on GitHub, with dozens of users initiating new project forks for development on top of the primary STIX Shifter code. 
 
-The OCA will continue development for both STIX Shifter and OpenDXL Ontology, and is actively seeking additional contributors from across the security industry to help guide and drive innovative new use-cases for these open source projects.
+The OCA will continue development for both STIX Shifter and OpenDXL Ontology, and is actively seeking additional contributors from across the security industry to help guide and drive innovative new use cases for these open source projects.
 
 Visit [https://opencybersecurityalliance.org](https://opencybersecurityalliance.org) to learn more about the Open Security Alliance and get involved in the projects that are currently underway.
 

@@ -26,7 +26,7 @@ The adoption of OpenDXL Ontology will help create a stronger, united front to de
 
 **OCA Momentum: 25+ Organizations Join Forces for Open Security**
 
-Since launching five months ago, the OCA has expanded to include more than 25 partner organizations, with the following new members joining: Armis, Center for Internet Security, CyberNB, [Cydarm](https://cydarm.com), Gigamon, [Raytheon](https://www.raytheon.com/), [Recorded Future](https://www.recordedfuture.com/), sFractal Consulting, and Tripwire. The full list of members can be found [here](https://opencybersecurityalliance.org/sponsors/). 
+Since launching five months ago, the OCA has expanded to include more than 25 partner organizations, with the following new members joining: Armis, Center for Internet Security, [CyberNB](https://cybernb.ca), [Cydarm](https://cydarm.com), Gigamon, [Raytheon](https://www.raytheon.com/), [Recorded Future](https://www.recordedfuture.com/), sFractal Consulting, and Tripwire. The full list of members can be found [here](https://opencybersecurityalliance.org/sponsors/). 
 
 The OCA community is currently collaborating on GitHub and Slack to further new open-source code and use-cases for cybersecurity industry interoperability. In addition to the development of OpenDXL Ontology for a common, open-source language between tools, the OCA is also continuing to build out capabilities for [STIX-Shifter](https://github.com/opencybersecurityalliance/stix-shifter), a universal, out-of-the box search capability for security products of all types. Since bringing STIX Shifter to the open-source community, hundreds of visitors have accessed this technology on GitHub, with dozens of users initiating new project forks for development on top of the primary STIX Shifter code. 
 

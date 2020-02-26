@@ -50,6 +50,7 @@ actively contributing to the project.
 **Current TSC members:**
 
 * Christopher Smith, Software Architect, McAfee
+* Duncan Sparrell, Principal, sFractal Consulting
 * Michael Stair, Lead Member of Technical Staff, AT&T Chief Security Office
 * Thierry Supplisson, Senior Member of Technical Staff, IBM Security
 * Mitch Thomas, Software Architect, Tripwire

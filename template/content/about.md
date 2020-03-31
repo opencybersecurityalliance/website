@@ -25,11 +25,10 @@ The Project Governing Board provides top-level guidance and strategic direction 
 * Adam Bosnian, Executive VP, Global Business Development, CyberArk
 * JP Bourget, Founder and Chief Security Officer, Syncurity
 * CJ Brunet, President & COO, Advanced Cyber Security Corp
+* Kelly Cullinane, Director of Utility & Energy Services, New Context
 * Sam Curry, Chief Security Officer, Cybereason
 * Marko Dragolievic, VP of Technology, EclecticIQ
-* Patrick Duggan, Chief of Staff, New Context
 * Jason Keirstead, Chief Architect, IBM Security Threat Management
-* Yariv Lenchner, Director of Product Management, Indegy
 * Adam Montville, Chief Product Architect, Center for Internet Security, Inc.
 * John Moran, Senior Project Manager, DFLabs
 * Hugh Pyle, Director of Solutions Architecture, ReversingLabs

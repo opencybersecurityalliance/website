@@ -2,6 +2,9 @@
 date: 2019-10-08
 description: "Press Release: Announcing OCA"
 title: "Cybersecurity Leaders Launch Initiative for Interoperable Security Technologies to Thwart Attacks"
+featured_image: "/images/oca-logo-modified.png"
+summary: " "
+tag: "news"
 ---
 
 * *Open Cybersecurity Alliance to connect the fragmented cybersecurity landscape with common, open source code and practices*

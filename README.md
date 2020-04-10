@@ -15,8 +15,7 @@ This template assumes you are comfortable with git-based development workflows a
 ### Quick Start
 
 * [Install Hugo](https://gohugo.io/getting-started/installing/). Hugo's dependencies are [git](https://git-scm.com/) and [Go](https://golang.org/dl/). 
-* Fork this repository into your Open Project's github organization. 
-* Clone the repository from your fork. After you clone, you'll need to cd into the /template folder and run `git submodule update --init`. In your terminal, type `hugo server` then navigate to localhost:1313 to see the site display in the browser.
+* Clone the repository. After you clone, you'll need to cd into the /template folder and run `git submodule update --init`. In your terminal, type `hugo server` then navigate to localhost:1313 to see the site display in the browser.
 * Update the template's config.toml file to reflect the correct information for your open project. You can add posts, pictures, sponsor files, etc. See below for more information on customizing your site. 
 * Be sure to check your terminal and localhost for any errors you may be introducing while you are making changes. By default, the Hugo server continuosly watches for changes and updates localhost for you, so you don't have to stop and restart the server constantly. Type `hugo server -help` for more command line server tools.
 * Save & push your changes to a branch on your fork which you intend to use as the production branch for your website.

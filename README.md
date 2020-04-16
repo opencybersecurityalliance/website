@@ -2,7 +2,7 @@
 
 # Open Cybersecurity Alliance Website Repository
 
-**This repository** houses the content for [our website](https://opencybersecurityalliance.org/). It is forked from the OASIS static site template for open projects. It makes use of Hugo, a customizable Hugo theme, github-driven deployment, and hosting with Netlify. For more information about these tools, see:
+This repository houses the content for [our website](https://opencybersecurityalliance.org/). It is forked from the OASIS static site template for open projects. It makes use of Hugo, a customizable Hugo theme, github-driven deployment, and hosting with Netlify. For more information about these tools, see:
 
 * https://gohugo.io/about/
 * https://themes.gohugo.io/gohugo-theme-ananke/

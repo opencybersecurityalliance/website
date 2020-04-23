@@ -28,6 +28,7 @@ The Project Governing Board provides top-level guidance and strategic direction 
 * Kelly Cullinane, Director of Utility & Energy Services, New Context
 * Sam Curry, Chief Security Officer, Cybereason
 * Marko Dragolievic, VP of Technology, EclecticIQ
+* Forrest Hare, Solution Architect, SAIC
 * Jason Keirstead, Chief Architect, IBM Security Threat Management
 * Adam Montville, Chief Product Architect, Center for Internet Security, Inc.
 * John Moran, Senior Project Manager, DFLabs

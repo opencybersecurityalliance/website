@@ -3,9 +3,6 @@
     {{ range first 3 (where .Paginator.Pages ".Params.tag" "news") }}
       <div class="relative w-100 w-30-l mb0 bg-white">
         <div class="mb3 pa4 mid-gray overflow-hidden">
-          {{ if .Params.featured_image}}
-            <img src="{{ .Params.featured_image }}" class="news-imgs" alt="image from {{ .Title }}">
-          {{ end }}
           {{ if .Date }}
             <div class="f6">
               {{ .Date.Format "January 2, 2006" }}

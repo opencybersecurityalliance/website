@@ -1,7 +1,7 @@
 ---
 date: 2020-02-24
 publishdate: 2020-02-24
-featured_image: "/images/oca-logo-modified.png"
+featured_image: ""
 description: "Press Release: Announcing OCA"
 title: "Open Cybersecurity Alliance Unveils First Open Source Language to Connect Security Tools"
 summary: " "

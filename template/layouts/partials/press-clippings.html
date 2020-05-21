@@ -3,7 +3,6 @@
     {{ range first 10 (where .Paginator.Pages ".Params.tag" "press") }}
       <div class="">
         <div class="mb4 pa0 mid-gray">
-            <img src="{{ .Params.featured_image }}" class="press-img fl"> 
             <div class="db">
             <h1 class="f5 near-black">
               <a href="{{ .Params.published_url }}" class="link black dim">

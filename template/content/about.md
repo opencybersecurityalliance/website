@@ -17,7 +17,7 @@ consumers are all valued.
 
 ### Project Governing Board (PGB)
 
-The Project Governing Board provides top-level guidance and strategic direction for the OCA. The Board includes those representatives from OCA Sponsors that have committed to the [Entity Contributor Licensing Agreement](https://www.oasis-open.org/resources/projects/cla/projects-entity-cla). [Learn how](mailto:communications@oasis-open.org) to join the OCA Project Governing Board.  
+The Project Governing Board provides top-level guidance and strategic direction for the OCA. The Board includes those representatives from OCA Sponsors that have committed to the [Entity Contributor Licensing Agreement](https://www.oasis-open.org/resources/projects/cla/projects-entity-cla). Learn how to join the OCA Project Governing Board by [emailing us](mailto:communications@oasis-open.org).  
 
 **Current PGB members:**
 

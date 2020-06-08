@@ -1,4 +1,8 @@
-{{ $featured_image := .Params.featured_image }}
+<h2 class="f2">Member Content</h2>
+<aside class="">
+  {{ range first 10 (where .Paginator.Pages ".Params.tag" "blog") }}
+      <div class="relative w-100 w-100-l mb4 bg-white">
+        {{ $featured_image := .Params.featured_image }}
 <article class="bb b--black-10">
   <div class="db pv4 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
@@ -12,18 +16,24 @@
         </div>
       {{ end }}
       <div class="blah w-100{{ if .Params.featured_image }} w-60-ns pl3-ns{{ end }}">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
+        <h1 class="f3 fw1 avenir mt0 lh-title">
           <a href="{{.Params.published_url}}" class="color-inherit dim link">
             {{ .Title }}
             </a>
         </h1>
+        <div class="nested-links f6 lh-copy nested-copy-line-height">
+          By {{ .Params.author }}, {{ if .Date }}
+            {{ .Date.Format "January 2, 2006" }}
+          {{ end }}
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
           {{ .Summary }}
         </div>
-          <a href="/news" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
-        {{/* TODO: add author
-        <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}}
+          <a href="{{.Params.published_url}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
       </div>
     </div>
   </div>
 </article>
+      </div>
+    {{ end }}
+  </aside>
+  {{ template "_internal/pagination.html" . }}

@@ -23,3 +23,14 @@
     width: 140px; 
     margin: 20px;
 }
+
+.news-imgs {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 25px;
+}
+
+.press-img {
+    max-width: 15%;
+    min-height: 50px;
+}

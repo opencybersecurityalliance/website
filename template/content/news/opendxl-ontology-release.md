@@ -2,6 +2,7 @@
 date: 2020-02-24
 publishdate: 2020-02-24
 featured_image: ""
+published_url: "/news/opendxl-ontology-release"
 description: "Press Release: Announcing OCA"
 title: "Open Cybersecurity Alliance Unveils First Open Source Language to Connect Security Tools"
 summary: " "

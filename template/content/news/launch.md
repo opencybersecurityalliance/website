@@ -1,6 +1,7 @@
 ---
 date: 2019-10-08
 description: "Press Release: Announcing OCA"
+published_url: "/news/launch"
 title: "Cybersecurity Leaders Launch Initiative for Interoperable Security Technologies to Thwart Attacks"
 featured_image: "/images/oca-logo-modified.png"
 summary: " "

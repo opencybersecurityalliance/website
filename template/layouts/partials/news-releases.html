@@ -1,8 +1,8 @@
 <h2 class="f2">News Releases</h2>
 <aside class="flex-ns flex-wrap justify-around mt0">
     {{ range first 3 (where .Paginator.Pages ".Params.tag" "news") }}
-      <div class="relative w-100 w-30-l mb0 bg-white">
-        <div class="mb3 pa4 mid-gray overflow-hidden">
+      <div class="relative w-100 w-40-l mb0 bg-white">
+        <div class="mb3 mid-gray overflow-hidden">
           {{ if .Date }}
             <div class="f6">
               {{ .Date.Format "January 2, 2006" }}
@@ -14,7 +14,7 @@
             </a>
           </h1>
           <div class="nested-links f5 lh-copy nested-copy-line-height">
-            {{ .Summary  }}
+            {{ .Params.summary  }}
           </div>
         </div>      
       </div>

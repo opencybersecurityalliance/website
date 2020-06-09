@@ -18,7 +18,7 @@
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          {{ .Summary }}
+          {{ .Params.summary }}
         </div>
           <a href="/news" class="f5 link dim br3 ph2 pv2 mb2 mt2 dib white bg-dark-blue">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
         {{/* TODO: add author

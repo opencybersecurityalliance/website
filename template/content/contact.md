@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 omit_header_text: true
-description: We'd love to hear from you
+description: 
 type: page
 menu:
   main: {}
@@ -18,9 +18,9 @@ Everyone is welcome to join the Open Cybersecurity Alliance.
 ### Contribute on GitHub
 We currently have 2 projects that you can join.  The table below provides more information on these projects.
 
-| Project | Description | Githib link |
-| :--- | :---: | ---: |
-|STIXShifter|This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.  | [stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter) |
+| Project | Description | GitHub link |
+|---  |---   |---   |
+|STIXShifter  |This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.  | [stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter) |
 | | |
 | | |
 | | |

@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "images/Favicon.png"
-  description = "A simple, quick, easy-to-modify project website."
+  description = "OCA - Open Cybersecurity Alliance"
   facebook = ""
   twitter = "https://twitter.com/OpenCyberAllnc"
   instagram = ""
@@ -38,5 +38,5 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     name = "Docs"
-    url = "https://github.com/opencybersecurityalliance/documentation"
+    url = "https://github.com/opencybersecurityalliance/documentation/wiki"
     identifier = "docs site"

@@ -1,5 +1,5 @@
 ---
-title: "Share & Use Global Cybersecurity Data"
+title: "Driving Security Interoperability Based on Open Standards"
 featured_image: '/images/cyber_background.jpg'
 description: ""
 ---

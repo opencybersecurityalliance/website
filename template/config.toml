@@ -44,3 +44,7 @@ enableRobotsTXT = true
     name = "News"
     url = "/news"
     identifier = "blog"
+  [[menu.main]]
+    name = "Sponsors"
+    url = "/sponsors"
+    identifier = "sponsors"

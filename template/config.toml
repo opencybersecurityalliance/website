@@ -5,7 +5,7 @@ theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+SectionPagesMenu = ""
 Paginate = 30 # number of sponsors that will show on sponsor page at a time
 googleAnalytics = ""
 enableRobotsTXT = true
@@ -40,3 +40,11 @@ enableRobotsTXT = true
     name = "Docs"
     url = "https://github.com/opencybersecurityalliance/documentation/wiki"
     identifier = "docs site"
+  [[menu.main]]
+    name = "News"
+    url = "/news"
+    identifier = "blog"
+  [[menu.main]]
+    name = "Sponsors"
+    url = "/sponsors"
+    identifier = "sponsors"

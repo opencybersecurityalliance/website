@@ -20,8 +20,15 @@
 .sponsor-list-logo {
     display: inline-block;
     vertical-align: middle;
-    width: 140px; 
+    width: 175px; 
     margin: 20px;
+}
+
+.pgb-list {
+    display: inline-block;
+    vertical-align: text-top;
+    width: 300px;
+    margin-right: 20px;
 }
 
 .news-imgs {

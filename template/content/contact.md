@@ -16,16 +16,16 @@ Everyone is welcome to join the Open Cybersecurity Alliance.
 * [Sign up](https://lists.oasis-open-projects.org/g/oca) for or [view](https://lists.oasis-open-projects.org/g/oca/topics) our mailing lists
 
 ### Contribute on GitHub
-We currently have 2 projects that you can join.  The table below provides more information on these projects.
+We currently have 2 projects that you can join.  The table below provides basic information on these projects, you can read more details on the [projects page](/projects/)
 
 | Project | Description | GitHub link |
 |---  |---   |---   |
-|STIXShifter  |This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.  | [stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter) |
+|STIX Shifter  |This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.  | [stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter)
 | | |
 | | |
 | | |
 | | |
-|OpenDXL |OpenDXL is an initiative to create adaptive systems of interconnected services that communicate and share information for real-time, accurate security decisions and actions. | [OpenDXL Ontology](https://github.com/opencybersecurityalliance/opendxl-ontology)|
+|OpenDXL Ontology |The OpenDXL Ontology project is focused on the development of an open and interoperable cybersecurity messaging format for use with the OpenDXL messaging bus. | [OpenDXL Ontology](https://github.com/opencybersecurityalliance/opendxl-ontology)
 
 
 ### Contact Us

@@ -7,7 +7,7 @@ layout: about
 menu:
   main: {}
 ---
-The Open Cybersecurity Alliance (OCA) fosters an open source ecosystem where products interoperate across the enterprise. We work to enable cybersecurity information, insights, analytics, and orchestrated response to be readily exchanged between products--reducing the need for costly one-off integrations. 
+The Open Cybersecurity Alliance fosters an open source ecosystem where products interoperate across the enterprise. We work to enable cybersecurity information, insights, analytics, and orchestrated response to be readily exchanged between products--reducing the need for costly one-off integrations. 
 
 The OCA community collaborates on a range of open source code and tooling--and new contributors and contributions are always welcome. We build consensus around procedures, technologies, and standards. 
 
@@ -27,18 +27,13 @@ The OCA is hosted as an [OASIS Open Project](https://oasis-open-projects.org/).
 
 ### Why get involved?
 
-Security practitioners will: 
-
-
+As part of the OCA, security practitioners will: 
 
 *   Discover new critical insights and ﬁndings, that would have otherwise been missed 
 *   Reduce unnecessary procurement of new tools 
 *   Reduce vendor lock-in and gain greater freedom to choose products
 
-
-### Technology providers will:
-
-
+Technology providers will:
 
 *   Increase their integration exposure--get more customers
 *   Reduce data integration expenses
@@ -67,5 +62,5 @@ This can lead to the unnecessary procurement of new tools to replace functions t
 
 For vendors, the ability to integrate cybersecurity products with multiple vendors using one common set of communication capabilities and tooling will greatly reduce the expense of engineering resources spent on integration. Easy integration also mitigates the problem of having to be too selective and narrow in focus when it comes to choosing which vendor technologies to integrate with. Resources previously spent on integrations can then be re-deployed to other parts of the product pipeline, enabling higher value functionality to be developed in the products.
 
-See the <span style="text-decoration:underline;">OCA Charter</span> for more information.
+See the [OCA Charter]([https://github.com/opencybersecurityalliance/oca-admin/blob/master/CHARTER.md).
 

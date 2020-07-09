@@ -2,7 +2,7 @@
 title: "About"
 omit_header_text: 
 description: ""
-type: about
+type:
 layout: about
 menu:
   main: {}

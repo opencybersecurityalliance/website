@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Governance"
 omit_header_text: 
 description: ""
 type: about

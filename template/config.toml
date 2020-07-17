@@ -5,8 +5,8 @@ theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 20 # number of sponsors that will show on sponsor page at a time
+SectionPagesMenu = ""
+Paginate = 30 # number of sponsors that will show on sponsor page at a time
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -17,20 +17,34 @@ enableRobotsTXT = true
 
 [params]
   favicon = "images/Favicon.png"
-  description = "A simple, quick, easy-to-modify project website."
+  description = "OCA - Open Cybersecurity Alliance"
   facebook = ""
   twitter = "https://twitter.com/OpenCyberAllnc"
   instagram = ""
   youtube = ""
   github = "https://github.com/opencybersecurityalliance"
   gitlab = ""
-  linkedin = "https://www.linkedin.com/company/open-cybersecurity-alliance/ "
+  linkedin = "https://www.linkedin.com/company/open-cybersecurity-alliance/"
   mastodon = ""
   logo = "/images/oca-logo-modified.png"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/cyber_background.jpg"
-  recent_posts_number = 1
-  mailing_list_subscribe = "mailto:oca-subscribe@lists.oasis-open-projects.org"
+  recent_posts_number = 3
+  mailing_list_subscribe = "mailto:oca-op+subscribe@lists.oasis-open-projects.org"
   custom_css = ["css/custom.css"]
   mainSections = ["news", "sponsors"]
+
+[menu]
+  [[menu.main]]
+    name = "Docs"
+    url = "https://github.com/opencybersecurityalliance/documentation/wiki"
+    identifier = "docs site"
+  [[menu.main]]
+    name = "News"
+    url = "/news"
+    identifier = "blog"
+  [[menu.main]]
+    name = "Sponsors"
+    url = "/sponsors"
+    identifier = "sponsors"

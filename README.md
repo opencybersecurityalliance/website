@@ -1,24 +1,21 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e7bc3ca8-6e6c-4de7-8e58-886e9e68eacb/deploy-status)](https://app.netlify.com/sites/pedantic-sinoussi-974ee3/deploys)
 
-# OASIS Open Projects Static Site Template
+# Open Cybersecurity Alliance Website Repository
 
-This repository is an example template static site for open projects websites. It makes use of Hugo, a customizeable Hugo theme, github-driven deployment, and hosting with Netlify. For more information about these tools, see:
+This repository houses the content for [our website](https://opencybersecurityalliance.org/). It is forked from the OASIS static site template for open projects. It makes use of Hugo, a customizable Hugo theme, github-driven deployment, and hosting with Netlify. For more information about these tools, see:
 
 * https://gohugo.io/about/
 * https://themes.gohugo.io/gohugo-theme-ananke/
 * https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
-You can see a live demo at https://pedantic-sinoussi-974ee3.netlify.com/
+## Updating and Maintaining the Website
 
-## Using this Template for an Open Project Website
-
-This template assumes you are comfortable with git-based development workflows and have experience downloading & installing new software packages for your operating system. A basic understanding of HTML is helpful, as is basic understanding of Markdown. 
+This template assumes you are comfortable with git-based development workflows and have experience downloading & installing new software packages for your operating system. An understanding of HTML is helpful, as is basic understanding of Markdown. 
 
 ### Quick Start
 
 * [Install Hugo](https://gohugo.io/getting-started/installing/). Hugo's dependencies are [git](https://git-scm.com/) and [Go](https://golang.org/dl/). 
-* Fork this repository into your Open Project's github organization. 
-* Clone the repository from your fork so you can see it run locally. In your terminal, type `hugo server` then navigate to localhost:1313 to see the site display in the browser.
+* Clone the repository. After you clone, you'll need to cd into the /template folder and run `git submodule update --init`. In your terminal, type `hugo server` then navigate to localhost:1313 to see the site display in the browser.
 * Update the template's config.toml file to reflect the correct information for your open project. You can add posts, pictures, sponsor files, etc. See below for more information on customizing your site. 
 * Be sure to check your terminal and localhost for any errors you may be introducing while you are making changes. By default, the Hugo server continuosly watches for changes and updates localhost for you, so you don't have to stop and restart the server constantly. Type `hugo server -help` for more command line server tools.
 * Save & push your changes to a branch on your fork which you intend to use as the production branch for your website.

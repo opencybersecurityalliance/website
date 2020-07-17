@@ -1,0 +1,22 @@
+<h2 class="f2">Press Clippings</h2>
+<aside class="">
+    {{ range first 10 (where .Paginator.Pages ".Params.tag" "press") }}
+      <div class="">
+        <div class="mb4 pa0 mid-gray">
+            <div class="db">
+            <h1 class="f5 near-black">
+              <a href="{{ .Params.published_url }}" class="link black dim">
+                {{ .Title }}
+              </a>
+            </h1>
+            <div class="nested-links f6 lh-copy nested-copy-line-height">
+              {{ .Params.publisher  }}, {{ if .Date }}
+                {{ .Date.Format "January 2, 2006" }}
+              {{ end }}
+            </div>
+          </div>
+          </div>
+      </div>
+    {{ end }}
+  </aside>
+  {{ template "_internal/pagination.html" . }}

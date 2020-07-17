@@ -1,0 +1,12 @@
+<h2><a name="pgb"></a>Project Governing Board (PGB)</h2>
+<p>The Project Governing Board provides top-level guidance and strategic direction for the OCA. The Board includes those representatives from OCA Sponsors that have committed to the <a href="https://www.oasis-open.org/resources/projects/cla/projects-view-entity-cla">Entity Contributor Licensing Agreement</a>. Learn how to join the OCA Project Governing Board by <a href="mailto:op-admin@oasis-open.org">emailing us</a>.</p>  
+<h3>Current PGB Members</h3>
+{{ range where site.RegularPages "Section" "sponsors" }}
+{{ if .Params.pgb_rep_name }}
+    <div class="pgb-list">
+    <h4>{{ .Params.pgb_rep_name }}</h4>
+    <p>{{ .Params.pgb_rep_title }}<br>
+    <a href="{{ .Params.company_url }}" target="_blank">{{ .Params.company_name }}</a></p>
+    </div>
+{{ end }}  
+{{ end }}

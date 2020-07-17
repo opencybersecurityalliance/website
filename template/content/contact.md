@@ -1,14 +1,14 @@
 ---
-title: Contact
+title: Get Involved
 omit_header_text: true
-description: We'd love to hear from you
+description: 
 type: page
 menu:
   main: {}
 
 ---
 
-Everyone is welcome to join the Open Cybersecurity Alliance. 
+Everyone is welcome to join the Open Cybersecurity Alliance.
 
 The OCA community is committed to providing an open and welcoming environment for contributors. Anyone can join our Slack discussions, subscribe to our mailing lists, and contribute to any of our projects at any time! Please read our Code of Conduct and start participating.
 * [Introduce yourself on the OCA #introductions Slack channel](https://docs.google.com/forms/d/1vEAqg9SKBF3UMtmbJJ9qqLarrXN5zeVG3_obedA3DKs/viewform?edit_requested=true)
@@ -98,6 +98,10 @@ Incorporates other common open standards for message content (OpenC2, STIX, etc.
 
 Includes sample code that demonstrates how to integrate the ontology into existing security products and related solutions—
 
+### Community Spaces
+
+* Join our [Slack Channel](https://docs.google.com/forms/d/1vEAqg9SKBF3UMtmbJJ9qqLarrXN5zeVG3_obedA3DKs)
+* [Sign up](https://lists.oasis-open-projects.org/g/oca) for or [view](https://lists.oasis-open-projects.org/g/oca/topics) our mailing lists
 
 ### Contribute on GitHub
 We currently have 2 projects that you can join.  The table below provides basic information on these projects, you can read more details on the [projects page](/projects/)
@@ -111,10 +115,7 @@ We currently have 2 projects that you can join.  The table below provides basic 
 | | |
 |OpenDXL Ontology |The OpenDXL Ontology project is focused on the development of an open and interoperable cybersecurity messaging format for use with the OpenDXL messaging bus. | [OpenDXL Ontology](https://github.com/opencybersecurityalliance/opendxl-ontology)
 
-### Community Spaces
-
 ### Contact Us
 Contact us for more details about sponsorship, or to learn more about the Alliance.
->>>>>>> Stashed changes
  
-{{< form-contact action="https://formspree.io/jory.burson@oasis-open.org"  >}}
+{{< form-contact action="https://formspree.io/communications@oasis-open.org" >}}

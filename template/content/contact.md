@@ -11,6 +11,7 @@ menu:
 Everyone is welcome to join the Open Cybersecurity Alliance.
 
 The OCA community is committed to providing an open and welcoming environment for contributors. Anyone can join our Slack discussions, subscribe to our mailing lists, and contribute to any of our projects at any time! Please read our Code of Conduct and start participating.
+
 * [Introduce yourself on the OCA #introductions Slack channel](https://docs.google.com/forms/d/1vEAqg9SKBF3UMtmbJJ9qqLarrXN5zeVG3_obedA3DKs/viewform?edit_requested=true)
 * [Subscribe to OCA mailing lists](https://lists.oasis-open-projects.org/g/oca)
 * [Follow us on YouTube](https://www.youtube.com/user/OASISopen)
@@ -41,6 +42,7 @@ Our meeting minutes and technical documentation from the Program Governance Boar
 The marketing committee and PGB have launched workgroups.  If you are interested in more information and would like to join, please contact us on the OCA Newbies SLACK channel.
 ##### Marketing subgroups
 There are 6 workstreams in process:
+
 * Messaging Refresh
 * Website Updates
 * Blogs and Social Media

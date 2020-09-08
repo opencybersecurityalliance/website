@@ -62,5 +62,5 @@ This can lead to the unnecessary procurement of new tools to replace functions t
 
 For vendors, the ability to integrate cybersecurity products with multiple vendors using one common set of communication capabilities and tooling will greatly reduce the expense of engineering resources spent on integration. Easy integration also mitigates the problem of having to be too selective and narrow in focus when it comes to choosing which vendor technologies to integrate with. Resources previously spent on integrations can then be re-deployed to other parts of the product pipeline, enabling higher value functionality to be developed in the products.
 
-See the [OCA Charter]([https://github.com/opencybersecurityalliance/oca-admin/blob/master/CHARTER.md).
+See the [OCA Charter](https://github.com/opencybersecurityalliance/oca-admin/blob/master/CHARTER.md).
 

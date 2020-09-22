@@ -1,5 +1,5 @@
 # Page settings
-BaseURL = "localhost:1313"
+BaseURL = "https://opencybersecurityalliance.org/"
 title = "Open Cybersecurity Alliance"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
@@ -7,7 +7,7 @@ theme = "hugo-elate-theme"
 [params]
   
   custom_css = ["/css/custom1.css", "/css/custom2.css"]
-  baseurl = "localhost:1313"
+  baseurl = "https://opencybersecurityalliance.org/"
 
   # Meta
   author = ""

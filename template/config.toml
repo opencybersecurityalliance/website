@@ -156,11 +156,11 @@ theme = "hugo-elate-theme"
 
     [[params.projects.row]]
       img = "scap-data-img.jpg"
-      alt = "SCAP"
-      title = "SCAP"
+      alt = "NIST SCAP v2"
+      title = "NIST SCAP v2"
       subtitle = "Data Collection Architecture"
       description = "Supports continuous monitoring for tracking assets' policy compliance"
-      url = ""
+      url = "https://csrc.nist.gov/projects/security-content-automation-protocol-v2/scapv2-community"
 
   # About section
   [params.about]

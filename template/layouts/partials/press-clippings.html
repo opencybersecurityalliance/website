@@ -2,14 +2,14 @@
 <aside class="">
     {{ range first 10 (where .Paginator.Pages ".Params.tag" "press") }}
       <div class="">
-        <div class="mb4 pa0 mid-gray">
+        <div class="press">
             <div class="db">
-            <h1 class="f5 near-black">
-              <a href="{{ .Params.published_url }}" class="link black dim">
+            <h3 class="">
+              <a href="{{ .Params.published_url }}" class="">
                 {{ .Title }}
               </a>
-            </h1>
-            <div class="nested-links f6 lh-copy nested-copy-line-height">
+            </h3>
+            <div class="press-details">
               {{ .Params.publisher  }}, {{ if .Date }}
                 {{ .Date.Format "January 2, 2006" }}
               {{ end }}

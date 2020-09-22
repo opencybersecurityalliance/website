@@ -1,0 +1,89 @@
+.oasis-banner {
+    width: inherit;
+    height: 50px;
+    background-color: white;
+    margin-top: 0x;
+}
+
+.contact {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.page-content {
+    width: 750px;
+    margin-top: 3em;
+}
+
+.oasis-banner img {
+    max-width: 200px;
+    margin-top: .75em;
+    margin-left: 1.25em;
+}
+
+.navbar-brand img {
+    width: 300px;
+}
+
+.oasis-required-language {
+    color:#818892;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.oasis-required-language a {
+    color: hsla(0,0%,100%,.7);
+}
+
+.member-post {
+    width: 750px;
+    display: inline-flex;
+    margin-bottom: 50px;
+}
+
+.member-post h1 {
+    font-size: 28px;
+    padding-left: 15px;
+}
+
+.post-image {
+   min-width: 275px;
+   max-width: 275px;
+   padding-right: 15px;
+}
+
+.post-image img {
+    width: 100%;
+}
+
+.post-summary {
+    padding-left: 15px;
+}
+
+.pgb-list {
+    display: inline-block;
+    flex-wrap: wrap;
+    vertical-align: text-top;
+    width: 300px;
+    margin-right: 20px;
+}
+
+.press h3 {
+    margin-bottom: 0px;
+}
+
+.press-details {
+    margin-bottom: 20px;
+}
+
+.sponsor-list-logo {
+    flex-wrap: wrap;
+    vertical-align: middle;
+    width: 175px; 
+    margin: 20px;
+}
+
+.footnote {
+    padding-top: 40px;
+}

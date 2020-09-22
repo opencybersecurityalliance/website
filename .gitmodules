@@ -1,3 +1,7 @@
 [submodule "template/themes/ananke"]
 	path = template/themes/ananke
 	url = https://github.com/oasis-dev/gohugo-theme-ananke
+
+[submodule "template/themes/hugo-elate-theme"]
+	path = template/themes/hugo-elate-themee
+	url = https://github.com/oasis-dev/hugo-elate-theme

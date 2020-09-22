@@ -1,6 +1,6 @@
 # Page settings
 BaseURL = "https://opencybersecurityalliance.org/"
-title = "Open Cybersecurity Alliance"
+title = "OCA"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -13,7 +13,7 @@ theme = "hugo-elate-theme"
   author = ""
   description = ""
   email = ""
-  mailing_list_subscribe = "mailto:oca-op+subscribe@lists.oasis-open-projects.org"
+  mailing_list_subscribe = "https://lists.oasis-open-projects.org/g/oca"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   googleMapsApiKey = ""
@@ -45,7 +45,7 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "​We’re Making Standards-Based, Interoperable Cybersecurity a Reality."
+    title = "We’re Making Standards-Based, Interoperable Cybersecurity a Reality."
     subtitle = "OCA is building an open ecosystem where cybersecurity products interoperate without the need for customized integrations. Using community-developed standards and practices, we're simplifying integration across the threat lifecycle. Join our community."
  
   # Intro section

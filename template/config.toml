@@ -199,7 +199,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Sponsors"
       position = ""
-      description = "Leading cybersecurity vendors, enterprises,, and nonprofits from around the world back the OCA."
+      description = "Leading cybersecurity vendors, enterprises, and nonprofits from around the world back the OCA."
       button = "Join Us"
       url = "/sponsors"
       img = "person2.jpg"

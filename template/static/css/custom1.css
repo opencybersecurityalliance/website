@@ -77,6 +77,10 @@
     margin-bottom: 20px;
 }
 
+.sponsor-container {
+    width: 75%;
+}
+
 .sponsor-list-logo {
     flex-wrap: wrap;
     vertical-align: middle;

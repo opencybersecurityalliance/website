@@ -174,7 +174,7 @@ theme = "hugo-elate-theme"
       description = "Our goal is interoperability across cybersecurity products. We’re not another data sharing platform."
       button = "Read More"
       url = "/mission"
-      img = "person3.jpg"
+      img = "mission.jpg"
       alt = "Person3"
       social = [
         ["icon-twitter", "#"],
@@ -188,7 +188,7 @@ theme = "hugo-elate-theme"
       description = "Developers, corporate supporters, and technology consumers all have a voice in decision-making."
       button = "Meet our Leadership"
       url = "/governance"
-      img = "person1.jpg"
+      img = "governance.jpg"
       alt = "Person1"
       social = [
         ["icon-twitter", "#"],
@@ -202,7 +202,7 @@ theme = "hugo-elate-theme"
       description = "Leading cybersecurity vendors, enterprises, and nonprofits from around the world back the OCA."
       button = "Join Us"
       url = "/sponsors"
-      img = "person2.jpg"
+      img = "support.jpg"
       alt = "Person2"
       social = [
         ["icon-twitter", "#"],

@@ -33,6 +33,11 @@
         	{{ partial "about.html" .}}
 		{{ end }}
 
+		<a name="sponsors"></a>
+		<div class="container">
+			{{ partial "sponsors.html" . }}
+		</div>
+
 		{{ if .Site.Params.counters.enable }}
         	{{ partial "counters.html" .}}
         {{ end }}

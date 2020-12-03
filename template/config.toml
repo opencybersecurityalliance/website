@@ -4,6 +4,8 @@ title = "OCA"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
+googleAnalytics = "G-BDQL844N94"
+
 [params]
   
   custom_css = ["/css/custom1.css", "/css/custom2.css"]
@@ -38,10 +40,10 @@ theme = "hugo-elate-theme"
     #  weight = 10
 
     # postpended links
-    #[[menu.postpend]]
-    #  url = "http://gohugo.io"
-    #  name = "External link"
-    #  weight = 10
+    [[menu.postpend]]
+      url = "https://opencybersecurityalliance.org/posts/"
+      name = "News"
+      weight = 10
   
   # Hero section
   [params.hero]

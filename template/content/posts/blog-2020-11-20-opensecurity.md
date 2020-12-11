@@ -3,7 +3,7 @@ date: 2020-12-02
 description: "The Value of Open Security"
 published_url: "/posts/blog-2020-11-20-opensecurity/"
 title: "The Value of Open Security"
-featured_image: "/posts/community.jpg"
+featured_image: "/images/community.jpg"
 author: "Jason Keirstead"
 publisher: "Open Cybersecurity Alliance"
 summary: " We are at the pinnacle of innovation for security. Yet, Security leaders today are stressed with too much to do, too many security tools, too much complexity, too many alerts, and not enough skills. For the most part, we all have access to roughly the same types of technology.  The challenge is that the tools providing this technology, don’t talk to each other. The reasons why vary for every person and company – there is, however, one direction that the cybersecurity industry is starting to move in together to solve these challenges, and that direction is \"open\""
@@ -13,7 +13,7 @@ tag: "blog"
 - by <a href="https://www.linkedin.com/in/jasonkeirstead/">Jason Keirstead</a>
 </h4>
 
-<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../change.jpg"/>
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="/images/change.jpg"/>
 
 Let me lay out a scenario for you. Forward leaning organizations are embracing change. They’re refactoring apps to become more modular, containerized, and are increasingly shifting to SaaS, in order to move fast and scale. They’re treating data as a shared resource between departments, partners, and communities; and using AI and analytics to find untapped value. They’re embracing hybrid cloud, to match the right workload to the right cloud environment for their business. 
 
@@ -23,7 +23,7 @@ This current state of the industry, is simply unsustainable long term. But how d
 
 ## Learning from History
 
-<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../designthink.jpg"/>
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="/images/designthink.jpg"/>
 
 I believe that one place that we as an industry can look for inspiration, is to see how we can learn from other domains of information technology. Over the past two decades, most major innovations have evolved from an open approach that has fueled success in every major technology category - including operating systems ([Linux](https://www.kernel.org/), [Android](https://source.android.com/)), data ([Hadoop](https://hadoop.apache.org/), [MongoDB](https://github.com/mongodb/mongo), [Elasticsearch](https://github.com/elastic/elasticsearch)), technology management ([Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io/)), and more. 
 
@@ -33,7 +33,7 @@ Security is the next frontier when it comes to open. Of course, there are a hand
 
 ## Why Open Security, and What Is Holding Us Back
 
-<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../lock_fence.jpg"/>
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="/images/lock_fence.jpg"/>
 
 The benefits that come from Open Security align around two key areas: 
 
@@ -45,7 +45,7 @@ If Open Security can bring all of these benefits, then why does it continue to b
 
 ## The Four Pillars of Open Security
 
-<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../puzzle_pieces.jpg"/>
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="/images/puzzle_pieces.jpg"/>
 
 ### Open Standards
 
@@ -67,7 +67,7 @@ The fourth pillar is best practices, which enable the best-of-breed solutions to
 
 ## The Common Thread - Community
 
-<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="../community.jpg"/>
+<img style="text-align:center;display:block;width:100%;margin-bottom:2em;" src="/images/community.jpg"/>
 
 What is the common thread among all of these pillars of Open Security? **Community**. Communities, combined with the previously discussed efforts, are what create the competitive advantage for Open Security. Otherwise known as the [“power of the crowd”](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds), the community is the unifying fabric of it all. As an industry, we have to learn how to lean into and embrace these community-driven models of standards, code, intelligence, analytics, and best practice. Only then will we be able to keep pace with, and hopefully get ahead of, emerging threats.
 

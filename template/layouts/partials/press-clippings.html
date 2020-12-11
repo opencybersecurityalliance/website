@@ -1,6 +1,6 @@
 <h2 class="f2">Press Clippings</h2>
 <aside class="">
-    {{ range first 10 (where .Paginator.Pages ".Params.tag" "press") }}
+    {{ range where .Paginator.Pages ".Params.tag" "press" }}
       <div class="">
         <div class="press">
             <div class="db">
@@ -19,4 +19,3 @@
       </div>
     {{ end }}
   </aside>
-  {{ template "_internal/pagination.html" . }}

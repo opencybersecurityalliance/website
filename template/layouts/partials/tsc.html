@@ -2,13 +2,5 @@
 <p>The TSC directs the day-to-day technical activities of the OCA. TSC
 members include representatives from the developer community who are
 actively contributing to the project.</p>
-<h3>Current TSC Members</h3>
-{{ range where site.RegularPages "Section" "tsc-reps" }}
-{{ if .Params.tsc_rep_name }}
-    <div class="pgb-list">
-    <h4>{{ .Params.tsc_rep_name }}</h4>
-    <p>{{ .Params.tsc_rep_title }}<br>
-        {{ .Params.company }}</p>
-    </div>
-{{ end }}  
-{{ end }}
+
+<p>The list of current TSC members can be found <a href="https://github.com/opencybersecurityalliance/oca-admin/blob/master/TECHNICAL-STEERING-COMMITTEE.md">here</a>.</p>

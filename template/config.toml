@@ -12,9 +12,22 @@ googleAnalytics = "G-BDQL844N94"
       unsafe = true
       xhtml = true
 
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokailight"
+    tabWidth = 4
+
 [params]
 
-  custom_css = ["/css/custom1.css", "/css/custom2.css"]
+  custom_css = ["/css/custom1.css", "/css/custom2.css", "/css/codeblock.css"]
   baseurl = "https://opencybersecurityalliance.org/"
 
   # Meta
